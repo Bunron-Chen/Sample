@@ -1,4 +1,4 @@
-#This is a Sample
+#THIS IS A SAMPLE
 #update1
 #update from gitGUI
 
